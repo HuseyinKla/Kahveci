@@ -1,6 +1,6 @@
 # Kahveci Uygulaması
 
-A new Flutter project.
+Classic one-page coffee shop.
 
 ## Getting Started
 
