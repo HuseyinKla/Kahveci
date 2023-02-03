@@ -1,4 +1,4 @@
-# kahveci
+# Kahveci Uygulaması
 
 A new Flutter project.
 
